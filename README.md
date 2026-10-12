@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding with C, Python, Java, building website, and designing user interfaces.
 - 🌱 I’m currently learning ... Swift, React and C++.
 - 💞️ I’m looking to collaborate on ... potential research opportunities in Computer Science.
-- 📫 How to reach me ... (email)[mailto:jerrylovesapple@icloud.com], +14343104701.
+- 📫 How to reach me ... [email](mailto:jerrylovesapple@icloud.com), +14343104701.
 
 <!---
 jerrylimes/jerrylimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
